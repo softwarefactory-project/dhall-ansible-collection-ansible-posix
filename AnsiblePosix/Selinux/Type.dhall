@@ -1,0 +1,1 @@
+{ configfile : Optional Text, policy : Optional Text, state : ./state.dhall }

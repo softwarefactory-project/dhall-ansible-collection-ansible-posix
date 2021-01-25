@@ -1,0 +1,9 @@
+{ backup = None Bool
+, boot = None Bool
+, dump = None Text
+, fstab = None Text
+, fstype = None Text
+, opts = None Text
+, passno = None Text
+, src = None Text
+}
