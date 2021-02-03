@@ -1,4 +1,4 @@
-# dhall-ansible-collection-ansible.posix
+# dhall-ansible-collection-ansible-posix
 
 This project contains [Dhall][dhall-lang] bindings to the [Ansible][ansible] [ansible.posix](https://docs.ansible.com/ansible/latest/collections/ansible/posix/) collection.
 See the main [dhall-ansible][dhall-ansible] bindings documentation.

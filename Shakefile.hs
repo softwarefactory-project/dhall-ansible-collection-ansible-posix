@@ -13,6 +13,6 @@ main = shakeMain $ do
   want ["package.dhall"]
   "package.dhall" %> dhallTopLevelPackageAction root
   "//package.dhall" %> dhallPackageAction
-  dhallDocsRules "dhall-ansible-collection-ansible.posix"
+  dhallDocsRules "dhall-ansible-collection-ansible-posix"
   dhallReleaseRules root
   cleanRules
